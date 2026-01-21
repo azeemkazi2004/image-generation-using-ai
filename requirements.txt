@@ -1,2 +1,8 @@
+torch
+diffusers
+accelerate
+transformers
+safetensors
 streamlit
-requests
+matplotlib
+Pillow
